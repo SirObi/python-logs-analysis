@@ -14,7 +14,7 @@
  ## Install the virtual machine  
  1. First, download and install Virtual Box: https://www.virtualbox.org/wiki/Downloads  
  2. Then, download and install Vagrant: https://www.vagrantup.com/downloads.html  
- 3. Finally, select a folder on your PC from which you'd like to run the tool.  
+ 3. Finally, select a folder on your PC from which you'd like to run the reporting tool.  
  4. Fork and clone the following repository into the folder you've just selected:   https://github.com/udacity/fullstack-nanodegree-vm  
  5. Navigate to the repository you've just created and cd to the subdirectory called "vagrant".  
  6. At this step, download the repository containing this README file and copy ```report.py``` into the "vagrant" directory.  
